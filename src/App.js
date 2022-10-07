@@ -1,12 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
-import New from './New';
-import '../src/New.css'
+import logo from "./logo.svg";
+import "./App.css";
+import New from "./New";
+import "../src/New.css";
 
 function App() {
-  return (
-    <New/>
-  );
+	return;
 }
 
 export default App;
